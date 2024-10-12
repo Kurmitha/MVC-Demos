@@ -23,7 +23,7 @@ An ASP.NET Core MVC application to manage student records with CRUD operations u
 
 # **3. Supermarket Management System**
 
-A simple ASP.NET Core MVC application for managing supermarket categories with CRUD operations. The application allows users to add, edit, view, and delete categories.
+The Supermarket Management System is an ASP.NET Core MVC project that demonstrates basic CRUD operations without using Entity Framework. The system stores product categories in memory using static lists, allowing users to add, edit, delete, and view categories.
 
 ## **Features**
 
